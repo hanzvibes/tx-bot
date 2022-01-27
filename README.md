@@ -1,7 +1,4 @@
-
-# TX-BOT
-
-A simple CLI tools to empty crypto wallet & send to your other wallet using Nodejs with Ethers API
+![App Screenshot](https://github.com/hanzvibes/tx-bot/raw/main/assets/logo_tx.png)A simple CLI tools to empty crypto wallet & send to your other wallet using Nodejs with Ethers API
 
 
 ## Run Locally
