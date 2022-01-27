@@ -2,12 +2,11 @@
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/hanzvibes/tx-bot?style=for-the-badge)
 
-![Snyk Vulnerabilities for GitHub Repo](https://img.shields.io/snyk/vulnerabilities/github/hanzvibes/tx-bot?style=for-the-badge)
+![GitHub package.json dependency version (prod)](https://img.shields.io/github/package-json/dependency-version/hanzvibes/tx-bot/ethers?color=b&style=for-the-badge)
 
 <img align="left" src="https://img.shields.io/github/stars/hanzvibes/tx-bot?style=for-the-badge">
 <img align="center" src="https://img.shields.io/github/forks/hanzvibes/tx-bot?style=for-the-badge">
 <img align="left" src="https://img.shields.io/github/watchers/hanzvibes/tx-bot?style=for-the-badge">
-<img align="left" src="https://img.shields.io/github/package-json/dependency-version/hanzvibes/tx-bot/ethers?style=for-the-badge">
 
 \
 \
