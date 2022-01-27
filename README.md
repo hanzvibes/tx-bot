@@ -1,4 +1,16 @@
-![App Screenshot](https://github.com/hanzvibes/tx-bot/raw/main/assets/logo_tx.png)A simple CLI tools to empty crypto wallet & send to your other wallet using Nodejs with Ethers API
+![App Screenshot](https://github.com/hanzvibes/tx-bot/raw/main/assets/logo_tx.png)
+
+![GitHub last commit](https://img.shields.io/github/last-commit/hanzvibes/tx-bot?style=for-the-badge)
+
+![Snyk Vulnerabilities for GitHub Repo](https://img.shields.io/snyk/vulnerabilities/github/hanzvibes/tx-bot?style=for-the-badge)
+
+<img align="left" src="https://img.shields.io/github/watchers/hanzvibes/tx-bot?style=flat-square">
+<img align="left" src="https://img.shields.io/github/forks/hanzvibes/tx-bot?style=flat-square">
+<img align="left" src="https://img.shields.io/github/stars/hanzvibes/tx-bot?style=flat-square">
+
+\
+\
+A simple CLI tools to empty crypto wallet & send to your other wallet using Nodejs with Ethers API
 
 
 ## Run Locally
