@@ -4,13 +4,15 @@
 
 ![Snyk Vulnerabilities for GitHub Repo](https://img.shields.io/snyk/vulnerabilities/github/hanzvibes/tx-bot?style=for-the-badge)
 
-<img align="left" src="https://img.shields.io/github/watchers/hanzvibes/tx-bot?style=flat-square">
-<img align="left" src="https://img.shields.io/github/forks/hanzvibes/tx-bot?style=flat-square">
-<img align="left" src="https://img.shields.io/github/stars/hanzvibes/tx-bot?style=flat-square">
+<img align="left" src="https://img.shields.io/github/stars/hanzvibes/tx-bot?style=for-the-badge">
+<img align="center" src="https://img.shields.io/github/forks/hanzvibes/tx-bot?style=for-the-badge">
+<img align="left" src="https://img.shields.io/github/watchers/hanzvibes/tx-bot?style=for-the-badge">
+<img align="left" src="https://img.shields.io/github/package-json/dependency-version/hanzvibes/tx-bot/ethers?style=for-the-badge">
 
 \
 \
-A simple CLI tools to empty crypto wallet & send to your other wallet using Nodejs with Ethers API
+\
+A simple CLI tools to empty crypto wallet & send to your other wallet, Build with Nodejs using Ethers API
 
 
 ## Run Locally
