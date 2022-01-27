@@ -62,13 +62,11 @@ const privateKeys = ["your_wallet_privatekey"]
 ```
 ## Running Example Demo using Dcoder & Termux
 
-![App Screenshot](https://github.com/hanzvibes/tx-bot/raw/main/assets/termux1.png)
+Termux             |  Dcoder
+:-------------------------:|:-------------------------:
+![App Screenshot](https://github.com/hanzvibes/tx-bot/raw/main/assets/termux1.png) | ![App Screenshot](https://github.com/hanzvibes/tx-bot/raw/main/assets/dcoder1.png)
+![App Screenshot](https://github.com/hanzvibes/tx-bot/raw/main/assets/termux2.png) | ![App Screenshot](https://github.com/hanzvibes/tx-bot/raw/main/assets/dcoder2.png)
 
-![App Screenshot](https://github.com/hanzvibes/tx-bot/raw/main/assets/termux2.png)
-
-![App Screenshot](https://github.com/hanzvibes/tx-bot/raw/main/assets/dcoder1.png)
-
-![App Screenshot](https://github.com/hanzvibes/tx-bot/raw/main/assets/dcoder2.png)
 
 ## Free JSON-RPC Provider
 
