@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "ethers": "^5.5.3",
+    "figlet": "^1.5.2",
+    "terminal-kit": "^2.4.0"
+  }
+}
