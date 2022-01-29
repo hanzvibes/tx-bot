@@ -1,4 +1,4 @@
-![App Screenshot](https://github.com/hanzvibes/tx-bot/raw/main/assets/logo_tx.png)
+![App Screenshot](https://github.com/hanzvibes/tx-bot/raw/main/assets/logo_header.png)
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/hanzvibes/tx-bot?style=for-the-badge)
 
