@@ -1,5 +1,5 @@
 const { ethers } = require('ethers')
-const provider = new ethers.providers.JsonRpcProvider("https://speedy-nodes-nyc.moralis.io/dbe57fb8a6bbbe9da715540f/eth/goerli") // Change This
+const provider = new ethers.providers.JsonRpcProvider("https://speedy-nodes-nyc.moralis.io/dbe57fb8a6bbbe9da715540f/eth/mainnet") // Change This
 const receiverWallet = '0x63113FB1B1766D253CcCF0A9f67ad38d047d9b56' // Change This
 const privateKeys = ["412bfd062b9ff35126520b3eb3d5ff258"] // Change This
 
