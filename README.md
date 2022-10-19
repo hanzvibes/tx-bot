@@ -81,6 +81,6 @@ If you want to create free JSON-RPC Provider account
 
 If you want discuss, feel free to visit
 
-- 🌐 [Telegram Channel](https://t.me/TheCryptofatherReborn)
+- 🌐 [Telegram Channel](https://t.me/hanzvibes)
 - 👥 [Find me on Facebook](https://fb.me/4RAEHAN/)
 
